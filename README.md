@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-🔭 I’m currently working on building my Github profile to showcase my diverse coding skills as a CAE engineer. <br>👯 I’m looking to collaborate on all projects applicable to the Automotive Industry. Inspire me!<br>🌱 I’m currently learning AI and Autonomous technology.<br>⚡ Fun fact: I've lived in 4 countries and been to 31 countries! ^_^
+🔭 I’m currently working on building my coding profile to document my programming learning journey as a CAE engineer. <br>👯 I’m looking to collaborate on all projects applicable to the Automotive Industry. Inspire me!<br>🌱 Active learning AI and Autonomous technology.<br>⚡ Fun fact: I've lived in 4 countries and been to 31 countries! ^_^
 
 
 ## 🌐 Socials:
