@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-🔭 I’m currently working on building my coding profile to document my programming learning journey as a CAE engineer. <br>👯 I’m looking to collaborate on all fun projects. Inspire me!<br>🌱 Active learning AI and Autonomous technology.<br>⚡ Fun fact: I've been to 31 countries! ^_^
+🔭 I’m currently working on building my coding profile to document my programming learning journey as a Mech engineer. <br>👯 I’m looking to collaborate on all fun projects. Inspire me!<br>🌱 Active learning AI /ML <br>⚡ Fun fact: I've been to 31 countries! ^_^
 
 
 ## 🌐 Socials:
